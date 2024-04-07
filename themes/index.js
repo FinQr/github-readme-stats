@@ -462,6 +462,13 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  black-ice: {
+    title_color: "#00E7FF",
+    text_color: "#00E7FF",
+    icon_color: "#00E7FF",
+    border_color: "#E4E2E2",
+    bg_color: "#151515",
+  },
 };
 
 export default themes;
