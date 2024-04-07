@@ -464,7 +464,7 @@ export const themes = {
   },
   black-ice: {
     title_color: "#00E7FF",
-    text_color: "#00E7FF",
+    text_color: "#E4E2E2",
     icon_color: "#00E7FF",
     border_color: "#E4E2E2",
     bg_color: "#151515",
